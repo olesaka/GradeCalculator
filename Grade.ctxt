@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Grade()
+comment0.text=\r\n\ Constructor\ initializes\ instance\ variables\r\n
+comment1.params=w\ g
+comment1.target=void\ calcIndividualGrade(double,\ double)
+comment1.text=\r\n\ Calculates\ an\ individual\ weighted\ grade\r\n\ @param\ w\ the\ weight\ of\ the\ grade\r\n\ @param\ g\ the\ grade\ to\ be\ associated\ with\ the\ weight\r\n
+comment2.params=
+comment2.target=double\ getFinalGrade()
+comment2.text=\r\n\ @return\ the\ finalGrade\r\n
+comment3.params=w\ finalGrade
+comment3.target=double\ calcLowestGrade(double,\ int)
+comment3.text=\r\n\ Calculates\ the\ lowest\ grade\r\n\ @param\ w\ the\ weight\r\n\ @param\ finalGrade\ the\ lowest\ grade\ allowed\ to\ recieve\r\n\ @return\ the\ lowest\ grade\ allowed\ to\ get\ if\ allowed\r\n
+numComments=4
